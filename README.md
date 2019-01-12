@@ -1,7 +1,7 @@
 ## Data Science
 
 - This repository contains notebooks relevant to Applied Data Science. The tutorials are mostly from online courses that I took from various schools. 
-- Feel free to use them as you see it fit and provide feedbacks
+
 
 1. [Data Wrangling of Vehicles Engine-size](https://github.com/agerk/dataScience/blob/master/data_wrangling_python.ipynb)
 
